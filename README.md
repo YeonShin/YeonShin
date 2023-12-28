@@ -1,5 +1,7 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20Yeon's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
+
+![YeonShin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YeonShin&show_icons=true&theme=radical)
 <!--
 **YeonShin/YeonShin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
