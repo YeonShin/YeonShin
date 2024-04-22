@@ -1,8 +1,15 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20Yeon's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
+
+<div align="center">
+
+![1c05dd5fac27fd8c5fe6f2c1708b88aff43ad912ad8dd55b04db6a64cddaf76d](https://github.com/YeonShin/YeonShin/assets/127587330/a6c9aed1-8a5c-4b46-a7c2-aa25f0dda878)
+<br>
+Hi there! 
+
+Thx for watching my GitHub profile 😊
 
 
 
-## Tech Stack
+## My Tech Stack
 
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 
@@ -23,3 +30,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+</div>
+
