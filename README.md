@@ -17,6 +17,9 @@ Thx for watching my GitHub profile 😊
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 ## 
 [![GitHub Streak](https://streak-stats.demolab.com?user=YeonShin&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeonShin&layout=compact&theme=dark)
+
 <!--
 **YeonShin/YeonShin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
