@@ -19,6 +19,11 @@ Thx for watching my GitHub profile 😊
 [![GitHub Streak](https://streak-stats.demolab.com?user=YeonShin&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeonShin&layout=compact&theme=dark)
+<hr>
+Algorithm
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=yeonnim05)](https://solved.ac/yeonnim05)
 
 <!--
 **YeonShin/YeonShin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
