@@ -86,6 +86,7 @@
 | [**YS_Archive**](https://portfolio.yeonshin.kro.kr)<br>개인 · 2026.07 - 진행 중 | Next.js·Supabase 기반 포트폴리오 겸 Headless CMS | 기획~배포 1인 전담<br>n8n 기반 AI 코드리뷰 자동화 도입<br>Direct Upload 전환으로 Vercel 파일 업로드 제한 4.5MB → 10MB 확장 |
 | [**Talk It**](https://talkit.bond)<br>4인 팀 · 2025.12 - 2026.02 | 말로 설명한 CS 개념을 AI가 채점하고 꼬리 질문을 던지는 학습 플랫폼 | 인증·세션 API부터 3D UI까지 풀스택 참여<br>사용자 인증 설계·구현 (Access/Refresh 이원화 + RTR로 XSS·토큰 탈취 방어) |
 | [**Web-OS-Emulation**](http://web-os-20.p-e.kr)<br>4인 팀 · 2025.11 - 2025.12 | 브라우저 위에서 OS 동작을 모사하는 GUI 에뮬레이터 | 클라이언트(렌더링·이벤트) / 서버(파일시스템·프로세스) 분리 아키텍처 설계<br>타 팀 레거시 인수 후 React.memo 적용으로 렌더링 지연 41.6ms → 9.5ms<br>커서 이동을 렌더 사이클에서 분리해 React Commit 626회 → 0회 |
+| [**Garela Community**](https://github.com/YeonShin/garela-community)<br>메비츠 인턴십 · 개인 · 2024.06 - 2024.07 | 템플릿 스크랩·적용 기반 글쓰기 커뮤니티 | 기획~풀스택 단독 구현 (4주)<br>에디터 이미지 Base64 저장 시 DB 용량 초과 문제를 S3 업로드 방식으로 해결<br>게시글 키워드 검색 기반 답변 LangChain 챗봇 구현 |
 
 <br>
 
